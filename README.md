@@ -6,7 +6,6 @@ Este documento descreve os **Planos de testes**, abrangência, ferramentas, exec
 
 ## 📑 Sumário
 
-## 📑 Sumário
 1. [Integração de Marketplaces Terceiros](#cenário-1-integração-de-marketplaces-terceiros)
 2. [Integração com Bling (Gestão de Estoque)](#cenário-2-integração-com-bling-gestão-de-estoque)
 3. [Erro de Anúncio – Pausado sem Estoque](#cenário-3-erro-de-anúncio--pausado-sem-estoque)
