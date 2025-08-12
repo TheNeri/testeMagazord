@@ -6,14 +6,16 @@ Este documento descreve os **Planos de testes**, abrangência, ferramentas, exec
 
 ## 📑 Sumário
 
-1. [Integração de Marketplaces Terceiros](#cenario1);
-2. [Integração com Bling (Gestão de Estoque)](#cenario2);
-3. [Erro de Anúncio – Pausado sem Estoque](#cenario3);
-4. [Validação de Dados Cadastrais](#cenario4);
+## 📑 Sumário
+1. [Integração de Marketplaces Terceiros](#cenário-1-integração-de-marketplaces-terceiros)
+2. [Integração com Bling (Gestão de Estoque)](#cenário-2-integração-com-bling-gestão-de-estoque)
+3. [Erro de Anúncio – Pausado sem Estoque](#cenário-3-erro-de-anúncio--pausado-sem-estoque)
+4. [Validação de Dados Cadastrais](#cenário-4-validação-de-dados-cadastrais)
+
 
 ---
 
-## Cenário 1 Integração de Marketplaces Terceiros {#cenario1}
+## Cenário 1 Integração de Marketplaces Terceiros 
 
 ### 📌 Documentação e Materiais de Apoio
 
@@ -82,7 +84,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 
 ---
 
-## Cenário 2 Integração com Bling (Gestão de Estoque) {#cenario2}
+## Cenário 2 Integração com Bling (Gestão de Estoque) 
 
 ### 📌 Documentação e Materiais de Apoio
 
@@ -145,7 +147,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 
 ---
 
-## Cenário 3 Erro de Anúncio – Pausado sem Estoque {#cenario3}
+## Cenário 3 Erro de Anúncio – Pausado sem Estoque 
 
 ### 📌 Resumo do Problema
 
@@ -183,7 +185,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 
 ---
 
-## Cenário 4 Validação de Dados Cadastrais {#cenario4}
+## Cenário 4 Validação de Dados Cadastrais 
 
 ### 📌 Campos e Testes
 
