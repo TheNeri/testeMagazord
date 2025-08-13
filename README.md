@@ -34,6 +34,8 @@ Este documento descreve os **Planos de testes**, abrangência, ferramentas, exec
 
 **Mapeamento de requisitos**:
 
+Exemplos:
+
 | Requisito                | Caso de Teste                                    |
 | ------------------------ | ------------------------------------------------ |
 | REQ01: Atualizar estoque | CT01: Reduzir estoque após pedido confirmado     |
@@ -56,7 +58,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 * **Falha**: erro de autenticação, falha de sincronização
 * **Carga**: alto volume simultâneo
 
-**Priorização**:
+**Exemplo de Priorização**:
 
 | Cenário                        | Impacto | Frequência | Prioridade |
 | ------------------------------ | ------- | ---------- | ---------- |
@@ -97,6 +99,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 * Registros de reuniões
 
 **Mapeamento de requisitos**:
+Exemplos:
 
 | Requisito                | Caso de Teste                    |
 | ------------------------ | -------------------------------- |
@@ -175,7 +178,7 @@ Jira, Trello, Confluence, Google Docs, Postman, Swagger, Miro, IA
 
 ---
 
-### 🛠 Soluções
+### 🛠 Possiveis Soluções
 
 1. Revisar lógica de envio ao zerar estoque
 2. Criar testes automatizados para validar status
